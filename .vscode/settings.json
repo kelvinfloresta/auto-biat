@@ -1,0 +1,7 @@
+{
+  "editor.formatOnSave": false,
+  "prettier.useEditorConfig": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true
+  }
+}
